@@ -8,10 +8,14 @@ Therefore, it's important to plan ahead while choosing the model, pricing, and t
 
 ##Lessons
 
-Understanding Model Interactions: I learned how generative AI models, such as GPT-2, take input prompts and return human-like text based on patterns they learned during training. The Hugging Face API offers a simple yet powerful way to interact with these models without needing to worry about managing the underlying infrastructure.
-Handling API Requests: I also became more familiar with making API calls using the requests library in Python. This taught me how to authenticate requests, pass input data in the correct format, and handle JSON responses.
+Understanding Model Interactions: I learned how generative AI models, such as GPT-2, take input prompts and return human-like text based on patterns they learned during training. The Hugging Face API offers a simple yet 
+powerful way to interact with these models without needing to worry about managing the underlying infrastructure.
+Handling API Requests: I also became more familiar with making API calls using the requests library in Python. This taught me how to authenticate requests, pass input data in the correct format, 
+and handle JSON responses.
 
 Future Applications
-Chatbots and Content Generation: The knowledge gained from using the Hugging Face API will be helpful in building applications such as chatbots, content generation tools, or even automated email responses. By simply modifying the input prompts, I could create custom solutions tailored to specific use cases.
+Chatbots and Content Generation: The knowledge gained from using the Hugging Face API will be helpful in building applications such as chatbots, content generation tools, or even automated email responses. 
+By simply modifying the input prompts, I could create custom solutions tailored to specific use cases.
 Text-Based Responses: Another area where this knowledge can be applied is in creating interactive, text-based insights or educational tools where dynamic responses are generated based on user input.
-In conclusion, working with generative AI is exciting and provides a wide array of possibilities for enhancing user experience in software applications. I look forward to applying these techniques in future projects as well as my current project to create more interactive and intelligent systems.
+In conclusion, working with generative AI is exciting and provides a wide array of possibilities for enhancing user experience in software applications. 
+I look forward to applying these techniques in future projects as well as my current project to create more interactive and intelligent systems.
