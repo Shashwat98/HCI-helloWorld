@@ -1,4 +1,4 @@
-# HCI-helloWorld
+# HCI - Working with AI APIs
 A Mini Coding assignment to work with AI APIs
 
 This Python application utilizes Hugging Face's API to generate text using the GPT-2 model, which is one of the popular generative models. The application sends a simple prompt ("Hello World, this is a test of the Hugging Face API.") to the model and receives a generated response, which is then printed.
